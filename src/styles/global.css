@@ -1,0 +1,24 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background: #f0f0f3;
+    color:#333;
+}
+
+body, input, button {
+    font: 400 16px 'Ubuntu', sans-serif;
+}
+
+button {
+    cursor: pointer;
+}
+
+a {
+    text-decoration:none;
+    color: inherit;
+}
